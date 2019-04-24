@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PicQuick</string>
+    <string name="Front">Gallery</string>
+    <string name="detect_object">Detect Object</string>
+</resources>
